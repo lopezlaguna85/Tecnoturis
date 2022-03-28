@@ -9,12 +9,12 @@ Para poder ejecutarlo hay que seguir los siguientes pasos:
 1- Entrar en cada carpeta por el terminal y ejecutar *npm install*.
 
 2- Crear en el "back" el archivo .env con las siguiente variables:
-  PORT=3001
-  MONGO_DB_URI=****** (entorno de producción de mongoDB)
-  MONGO_DB_URI_TEST=****** (entorno de pruebas de mongoDB)
-  SECRET=***** (secreto para la codificación/decodificación de las constraseñas de usuario)
-  USERHOTEL=*** (usuario para acceder a la API de Tecnoturis)
-  PASSHOTEL=*** (contraseña para acceder a la API de Tecnoturis
+  - PORT=3001
+  - MONGO_DB_URI=****** (entorno de producción de mongoDB)
+  - MONGO_DB_URI_TEST=****** (entorno de pruebas de mongoDB)
+  - SECRET=***** (secreto para la codificación/decodificación de las constraseñas de usuario)
+  - USERHOTEL=*** (usuario para acceder a la API de Tecnoturis)
+  - PASSHOTEL=*** (contraseña para acceder a la API de Tecnoturis
   
 3- Ejecutar desde la carpeta de back en el terminal *nodemon*
 
