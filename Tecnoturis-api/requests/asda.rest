@@ -1,0 +1,2 @@
+GET https://dev.tecnoturis.es/api-rest/hotels/api/v1/hotels
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIiLCJpYXQiOjE2NDg0NTg5NzQsImV4cCI6MTY0ODU0NTM3NH0.z6AmQy_l8ie-urw1bsBBLXtA2gZ_5WJU5RdG6BCsXA0
